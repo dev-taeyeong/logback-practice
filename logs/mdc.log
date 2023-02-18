@@ -1,0 +1,2 @@
+#logback.classic pattern: [MDC] %X{job}%n
+#logback.classic pattern: [MDC] %X{job}%n
